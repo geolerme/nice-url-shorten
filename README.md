@@ -16,3 +16,11 @@ git push -u origin main
 git remote add origin https://github.com/geolerme/foster.git
 git branch -M main
 git push -u origin main
+
+
+
+...stage and commit
+git add .
+git commit -m "comments"
+git push -u origin main
+
